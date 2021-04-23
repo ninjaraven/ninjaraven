@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there, you absolute legends! 👋
 
 - 🔭 I’m currently working on: <br />
 A list of DS games with editable formats: https://docs.google.com/spreadsheets/d/127N4J8365ju1wpef93o6LD6wc_NzR9ozlO8Pd24jwv4/edit#gid=0 <br />
