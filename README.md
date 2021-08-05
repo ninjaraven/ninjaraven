@@ -23,6 +23,8 @@ TypeScript <br />
 Lua <br />
 Python <br />
 Fortran <br />
+Ruby <br />
+PowerShell <br />
 Graphics & Design <br />
 Game development <br />
 
