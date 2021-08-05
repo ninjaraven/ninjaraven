@@ -10,13 +10,19 @@ Awesome-NDS: https://github.com/TheBestNSMB/awesome-nds <br />
 Tinke-Ultimate: https://github.com/TheBestNSMB/tinke-ultimate <br />
 and more! <br />
 
+- ⭐ I know: <br />
+C# <br />
+Certain Types Of ASM <br />
+
 - 🌱 I’m currently learning: <br />
 C <br />
 C++ <br />
-C# <br />
+F# <br />
+JavaScript <br />
+TypeScript <br />
 Lua <br />
 Python <br />
-ARM ASM <br />
+Fortran <br />
 Graphics & Design <br />
 Game development <br />
 
