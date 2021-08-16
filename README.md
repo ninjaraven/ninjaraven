@@ -25,6 +25,8 @@ Python <br />
 Fortran <br />
 Ruby <br />
 PowerShell <br />
+D <br />
+Beef <br />
 Graphics & Design <br />
 Game development <br />
 
