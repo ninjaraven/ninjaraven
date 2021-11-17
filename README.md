@@ -12,11 +12,12 @@ and more! <br />
 
 - ⭐ I know: <br />
 C# <br />
-Certain Types Of ASM <br />
-
-- 🌱 I’m currently learning: <br />
+ARM ASM <br />
 C <br />
 C++ <br />
+Beef <br />
+
+- 🌱 I’m currently learning: <br />
 F# <br />
 JavaScript <br />
 TypeScript <br />
@@ -26,7 +27,6 @@ Fortran <br />
 Ruby <br />
 PowerShell <br />
 D <br />
-Beef <br />
 Graphics & Design <br />
 Game development <br />
 
