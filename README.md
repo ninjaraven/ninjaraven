@@ -16,6 +16,7 @@ ARM ASM <br />
 C <br />
 C++ <br />
 Beef <br />
+D <br />
 
 - 🌱 I’m currently learning: <br />
 F# <br />
@@ -24,9 +25,8 @@ TypeScript <br />
 Lua <br />
 Python <br />
 Fortran <br />
-Ruby <br />
 PowerShell <br />
-D <br />
+Red <br />
 Graphics & Design <br />
 Game development <br />
 
