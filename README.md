@@ -17,13 +17,13 @@ C <br />
 C++ <br />
 Beef <br />
 D <br />
+x86 ASM <br />
 
 - 🌱 I’m currently learning: <br />
 F# <br />
-JavaScript <br />
 TypeScript <br />
 Lua <br />
-Python <br />
+Ada <br />
 Fortran <br />
 PowerShell <br />
 Red <br />
