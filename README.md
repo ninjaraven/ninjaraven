@@ -1,8 +1,8 @@
 ### Hey there, you absolute legends! 👋
 
 - 🔭 I’m currently working on: <br />
-A game engine (not public yet)
-An agar.io clone (C++/Raylib)
+A game engine (not public yet) <br />
+An agar.io clone (C++/Raylib) <br />
 and more! <br />
 
 - ⭐ I know: <br />
