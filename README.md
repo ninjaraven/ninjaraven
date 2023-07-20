@@ -37,7 +37,9 @@ Software <br />
 
 - 📫 How to reach me: <br />
 Discord: ninja_raven <br />
-Twitter: https://twitter.com/NsmbThe <br />
+Twitter: https://twitter.com/ninja_raven256 <br />
+Mastodon: https://mastodon.world/@TheBestNSMB <br />
+
 
 - ⚡ Fun fact:
 bool Suffering = true; <br />
