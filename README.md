@@ -1,45 +1,13 @@
-### Hey there, you absolute legends! 👋
+### Hi, I'm NinjaRaven! 👋
 
-- 🔭 I’m currently working on: <br />
-A game engine (not public yet) <br />
-An agar.io clone (C++/Raylib) <br />
-and more! <br />
+I'm just a strange guy who loves coding, game development, reverse engineering, and obscure media! <br />
 
-- ⭐ I know: <br />
-C/C++ <br />
-C# <br />
-Beef <br />
-D <br />
-Red <br />
-x86 ASM <br />
-ARM ASM <br />
+I like to work with C++, C#, Red, and many other programming languages. <br />
 
-- 🌱 I’m currently learning: <br />
-F# <br />
-TypeScript <br />
-Lua <br />
-Graphics & Design <br />
-Game development <br />
 
-- 👯 I’m looking to collaborate on: <br />
-Game documentation <br />
-Game mods <br />
-
-- 🤔 I’m looking for help with: <br />
-Reverse engineering <br />
-File formats <br />
-Game documentation <br />
-
-- 💬 Ask me about: <br />
-Games <br />
-Game modding <br />
-Software <br />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ninjaraven)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 How to reach me: <br />
 Discord: ninja_raven <br />
 Twitter: https://twitter.com/ninja_raven256 <br />
 Mastodon: https://mastodon.world/@TheBestNSMB <br />
-
-
-- ⚡ Fun fact:
-bool Suffering = true; <br />
